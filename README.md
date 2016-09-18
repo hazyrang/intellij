@@ -1,2 +1,2 @@
 # intellij
-intelliJ Tes
+intelliJ Testing Project
